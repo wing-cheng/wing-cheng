@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @wing-cheng
 - 👀 I’m interested in cyber security
-- 🌱 I’m currently learning functional programming
+- 🌱 I’m currently learning penetration testing and FP
 - 📫 Reach me at LinkedIn https://www.linkedin.com/in/wing-yan-cheng-0832881a2/
